@@ -73,3 +73,13 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
 ### Sécurité :
 - Authentication par defaut :
   ![Authentification](screenshots/Authdefault.png)
+  - Page d'authentification d'administrateur et d'utilisateur :
+  ![Authentification](screenshots/Auth_admin.png)
+  - Page d'affichage des clients (admin) :
+  ![Home](screenshots/Affichage_admin.png)
+   - Page d'affichage des clients (admin) :
+  ![Home](screenshots/Affichage_user.png)
+  - Page d'affichage des clients (user) :
+  ![Compte](screenshots/Affichage_Compte_User.png)
+ - Page d'affichage des clients (admin) :
+  ![Compte](screenshots/Affichage_Compte_Admin.png)
