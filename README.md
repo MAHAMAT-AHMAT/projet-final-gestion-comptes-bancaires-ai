@@ -17,6 +17,7 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
   ![OpenAPI JSON](screenshots/api-docs.png)
 
 ---
+
 ### Base de données
 
 - Structure des tables  
@@ -30,7 +31,7 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
 - Liste des clients  
   ![Clients](screenshots/Clients.png)
 
-- Filtrage des clients 
+- Filtrage des clients
   ![Filtre](screenshots/Filtre.png)
 
 - Console H2 – Clients  
@@ -38,6 +39,7 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
 
 - Base de données MySQL – Clients  
   ![Clients H2](screenshots/Clients_db.png)
+
 ---
 
 ### Gestion des comptes bancaires
@@ -57,6 +59,7 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
 
 - Opération de débit  
   ![Débit](screenshots/Debit.png)
+  ![Débit](screenshots/Debit_details.png)
 
 - Virement entre comptes  
   ![Transfert](screenshots/Transfert.png)
@@ -67,3 +70,6 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
 - Console H2 – Opérations  
   ![Opérations H2](screenshots/Operations_h2.png)
 
+### Sécurité :
+- Authentication par defaut :
+  ![Authentification](screenshots/Authdefault.png)
