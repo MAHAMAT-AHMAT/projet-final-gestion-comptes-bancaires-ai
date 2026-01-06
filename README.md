@@ -93,3 +93,10 @@ Cette section regroupe des captures d’écran illustrant le fonctionnement glob
   ![Telegram](screenshots/Creation-TCHADAIBot.png)
 - Réponse de chat bot avec :
   ![Telegram](screenshots/Discussion.png)
+
+  ### Systeme RAG :
+
+- Chat Bot:
+  ![Chat](screenshots/response-chat.png)
+- Statistique
+  ![Dashboard](screenshots/chart-js.png)
